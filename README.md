@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Anurag Kedar!  
+### 🚀 Data Science | AI Enthusiast | Machine Learning | Analytics  
 
-<!--
-**Anurag09-K/Anurag09-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Passionate about transforming **data into insights** and building **AI-powered solutions**!  
+💡 I work on **Data Science, Machine Learning, Deep Learning, and Data Analytics** projects.  
+📊 Skilled in **Python, SQL, Power BI, TensorFlow, Scikit-Learn, and Streamlit**.  
 
-Here are some ideas to get you started:
+## 🔹 What I Do  
+- 🧠 **Machine Learning & AI** – Developing models for prediction & automation  
+- 📊 **Data Analytics & Visualization** – Power BI & Matplotlib for meaningful insights  
+- 🏗️ **End-to-End Projects** – From **Data Cleaning → Model Building → Deployment**  
+- 🌐 **Full-Stack AI Apps** – Deploying ML models using **Streamlit & Flask**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Projects  
+🚀 **Customer Churn Prediction** – AI model to predict customer retention 💼  
+📈 **Power BI Dashboards** – Data visualization for business insights 📊  
+🤖 **Deep Learning Models** – NLP, Image Classification, and more!  
+
+## 🔹 Let's Connect  
+💼 [LinkedIn](https://www.linkedin.com/in/anurag-kedar)  
+📫 **Email:** anuragkd17@gmail.com  

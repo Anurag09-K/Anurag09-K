@@ -11,11 +11,6 @@
 - 🏗️ **End-to-End Projects** – From **Data Cleaning → Model Building → Deployment**  
 - 🌐 **Full-Stack AI Apps** – Deploying ML models using **Streamlit & Flask**  
 
-## 🔹 Projects  
-🚀 **Customer Churn Prediction** – AI model to predict customer retention 💼  
-📈 **Power BI Dashboards** – Data visualization for business insights 📊  
-🤖 **Deep Learning Models** – NLP, Image Classification, and more!  
-
 ## 🔹 Let's Connect  
 💼 [LinkedIn](https://www.linkedin.com/in/anurag-kedar)  
 📫 **Email:** anuragkd17@gmail.com  

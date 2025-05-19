@@ -12,5 +12,4 @@
 - 🌐 **Full-Stack AI Apps** – Deploying ML models using **Streamlit & Flask**  
 
 ## 🔹 Let's Connect  
-💼 [LinkedIn](https://www.linkedin.com/in/anurag-kedar)  
 📫 **Email:** anuragkd17@gmail.com  
